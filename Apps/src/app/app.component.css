@@ -1,0 +1,26 @@
+@import url(https://fonts.googleapis.com/css?family=Orbitron);
+@import url('https://fonts.googleapis.com/css2?family=Corinthia:wght@400;700&display=swap');
+
+
+body,html, body {
+  margin:0;
+  padding:0;
+  background-color: cornflowerblue;
+}
+
+h1, p{
+  margin:0;
+  color: firebrick;
+  text-align: center;
+  margin-top:2em;
+  font-size:5em;
+  font-family: 'Corinthia', fantasy;
+}
+
+h2{
+  color: coral;
+  text-align: center;
+  font-family: 'Orbitron', courier, sans-serif;
+}
+
+
